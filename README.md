@@ -1,4 +1,4 @@
-# 🎮 Wordle Game Project
+# 🎮🧩 Wordle Game Project 
 
 This project implements the classic Wordle game in C. Players have a limited number of attempts to guess the secret word.
 
