@@ -1,4 +1,4 @@
-# 🎮🧩 Wordle Game Project 
+# 🧩 Wordle Game Project 
 
 This project implements the classic Wordle game in C. Players have a limited number of attempts to guess the secret word.
 
@@ -17,7 +17,7 @@ This project implements the classic Wordle game in C. Players have a limited num
 - C compiler (e.g., GCC)
 - Standard C libraries
 
-## 🧩 Usage
+## 🔍 Usage
 
 When the game starts, follow the instructions displayed on the screen to guess the 5-letter word. You will receive feedback on each guess. Try to find the correct word within 6 attempts.
 
